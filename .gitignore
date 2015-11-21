@@ -1,0 +1,10 @@
+# object files
+*.o
+*.out
+*.obj
+
+# raw data
+*.gz
+*.txt
+*.pkl
+
